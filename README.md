@@ -55,7 +55,7 @@ Machine Learning project that classifies human emotions from speech audio using 
 
 * 📧 Email: [siddugunjala@gmail.com](mailto:siddugunjala@gmail.com)
 * 💻 GitHub: https://github.com/Siddharth8340
-* 🔗 LinkedIn:https://www.linkedin.com/in/gunjala-siddharth-028000382-
+* 🔗 LinkedIn:https://www.linkedin.com/in/gunjala-siddharth-028000382
 
 ### Languages Known
 * Telugu (Native)
