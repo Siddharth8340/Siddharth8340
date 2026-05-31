@@ -1,6 +1,6 @@
 # Hi 👋, I'm Siddharth Gunjala
 
-### Computer Science Student | | Frontend Developer | Full Stack Developer  | Aspiring Software Developer 
+### Computer Science Student |  Frontend Developer | Full Stack Developer  | Aspiring Software Developer 
 
 🎓 Computer Science Engineering Student at Sathyabama University (2022–2026)
 
@@ -70,14 +70,6 @@ Machine Learning project that classifies human emotions from speech audio using 
 * Oracle Cloud Infrastructure AI Foundations Associate
 * Future Skills Prime – NASSCOM
 * Tata GenAI Powered Data Analytics Job Simulation
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siddharth8340\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth8340\&layout=compact)
 
 ---
 
